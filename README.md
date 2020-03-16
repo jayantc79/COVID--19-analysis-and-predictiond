@@ -1,0 +1,2 @@
+# COVID--19-analysis-and-predictiond
+Corona Virus Coronaviruses are zoonotic viruses (means transmitted between animals and people). Symptoms include from fever, cough, respiratory symptoms, and breathing difficulties. In severe cases, it can cause pneumonia, severe acute respiratory syndrome (SARS), kidney failure and even death. Coronaviruses are also asymptomatic, means a person can be a carrier for the infection but experiences no symptoms Novel coronavirus (nCoV) A novel coronavirus (nCoV) is a new strain that has not been previously identified in humans.
